@@ -1,9 +1,9 @@
 # WAAAAAGH!
 
-## ***Ey Boyz! Iz YOU READY?!***
+***Ey Boyz! Iz YOU READY?!***
 
 
-## ***We’z Gunna Give’em a ProPa WAAAGH!***
+***We’z Gunna Give’em a ProPa WAAAGH!***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wa1575&show_icons=true&theme=radical&hide=prs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1575&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
