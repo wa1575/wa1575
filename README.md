@@ -5,7 +5,25 @@
 
 ***We’z Gunna Give’em a ProPa WAAAGH!***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wa1575&show_icons=true&theme=radical&hide=prs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1575&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wa1575&show_icons=true&theme=radical&hide=prs)
+-->
+
+
+
+
+
+
+
+![isekai-d-orc-programming-in-c-t-we-summoned-you-to-66200607](https://user-images.githubusercontent.com/67878157/110108360-6fb94280-7def-11eb-830b-3bc9e57f1e0f.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1575&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
