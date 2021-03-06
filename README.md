@@ -27,6 +27,12 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wa1575&show_icons=true&theme=radical&hide=prs)
+
+
+
+
+
 <!--
 **wa1575/wa1575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
